@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/nathyelly-laguna-abreu/)
 
-### Olá! 👋
+## Olá! 👋
 
 - 🔭 Estou trabalhando como Full-Stack em .Net
 - 🌱 Atualmente estou fazendo um curso de Angular
@@ -18,3 +18,13 @@
 <img align="left" alt="Boostrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: Linguagens mais usadas</summary>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyhelly" />
+
+</details>
