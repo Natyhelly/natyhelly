@@ -3,7 +3,7 @@
 ## Olá! 👋
 
 - 🔭 Estou trabalhando como Full-Stack em .Net
-- 🌱 Atualmente estou fazendo um curso de Angular
+- 🌱 Atualmente estou fazendo um curso de React
 - 👯 Procuro colaborar ao máximo sempre
 - 📫 Meu melhor e-mail: na.lagunaabreu@hotmail.com
 - 😄 Pode me chamar de Nathy!
