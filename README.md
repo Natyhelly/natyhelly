@@ -2,8 +2,8 @@
 
 ## Olá! 👋
 
-- 🔭 Estou trabalhando como Frontend Junior
-- 🌱 Atualmente estou estudando React e UI/UX Design
+- 🔭 Estou trabalhando como Fullstack .NET
+- 🌱 Tenho experiência com React e UI/UX Design
 - 👯 Procuro colaborar ao máximo sempre
 - 📫 Meu melhor e-mail: na.lagunaabreu@hotmail.com
 - 😄 Pode me chamar de Nathy!
